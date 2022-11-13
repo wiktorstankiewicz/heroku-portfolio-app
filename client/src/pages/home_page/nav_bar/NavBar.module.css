@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    align-content: center;
+    background-color: red;
+}
+
+.navBarButton, .nameAndSurname{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    height: 5em;
+    width: 5em;
+    margin:1px;
+}
+
+.push{
+    margin-left:auto;
+}
+
+.nameAndSurname{
+    border:none;
+    width:auto;
+    background-color: violet;
+}

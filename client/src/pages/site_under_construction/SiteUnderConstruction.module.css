@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 110%;
+    background-color: rgba(247, 255, 2, 0.8);
+    flex-direction: column;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10%;
+    width: 100%;
+    margin-top: auto;
+
+    
+}
+
+.footerContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+    width:80%;
+    border-top: 3px double rgb(34, 34, 34);
+}
+
+article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+}
