@@ -5,7 +5,8 @@
   "dependencies": {
     "css-modules": "^0.3.0",
     "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react-dom": "^16.14.0",
+    "react-scripts": "^5.0.1"
   },
   "engines": {
     "node": "18.x"
@@ -18,7 +19,7 @@
   },
   "proxy": "http://localhost:5000",
   "devDependencies": {
-    "react-scripts": "^5.0.1"
+    
   },
   "browserslist": {
     "production": [
