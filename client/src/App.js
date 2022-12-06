@@ -10,7 +10,7 @@ App.propTypes = {
 function App(props) {
   return (
     <SiteUnderConstruction/>
-    
+    <div>hello</div>
   );
 }
 
